@@ -636,14 +636,16 @@ h7 {
 
 #sponsor {
     background-color: #1881a2;
-    background-image: url("../images/sponsor-bg.jpg");
+    background-image: url("../images/background/sponsor.png");
     background-size: cover;
-    background-repeat: no-repeat;
+    height: 600px;
+    /*background-repeat: no-repeat;
     position: relative;
     opacity: 0.8;
     background-attachment: fixed;
-    background-position: center;
+    */background-position: center;
 }
+
 
 #sponsor.overlay {
     background: rgba(0, 0, 0, .8);
@@ -662,7 +664,7 @@ h7 {
     margin-top: 20px;
     margin-bottom: 10px;
     font-family: monospace;
-    color: white;
+    color: midnightblue;
     text-align: right;
 }
 
