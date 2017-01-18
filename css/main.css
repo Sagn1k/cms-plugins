@@ -636,7 +636,7 @@ h7 {
 
 #sponsor {
     background-color: #1881a2;
-    background-image: url("../images/background/sponsor.png");
+    background-image: url("../images/background/sponsors.jpg");
     background-size: cover;
     height: 600px;
     /*=background-repeat: no-repeat;
@@ -664,9 +664,9 @@ h7 {
 
 #sponsor h2 {
     margin-top: 20px;
-    margin-bottom: 10px;
-    font-family: monospace;
-    color: midnightblue;
+    margin-bottom: 20px;
+/*    font-family: monospace;*/
+    color: floralwhite;
     text-align: right;
 }
 
